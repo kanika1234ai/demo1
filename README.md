@@ -1,2 +1,3 @@
 # demo1
 My first repository
+Hey , I am creating a Hello world repository to learn Git....
